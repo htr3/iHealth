@@ -115,7 +115,6 @@ session_start();
                 <textarea class="input message" cols="30" rows="10" placeholder="Message    "></textarea>
             </div>
         </div>
-
         <div class="btn">
             Submit
             <i class="fas fa-arrow-right"></i>
